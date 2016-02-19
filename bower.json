@@ -1,0 +1,21 @@
+{
+  "name": "repro",
+  "description": "",
+  "main": "entry.js",
+  "authors": [
+    "Ian Duncan <ian@iankduncan.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-console": "^0.1.1"
+  }
+}

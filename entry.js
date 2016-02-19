@@ -1,0 +1,3 @@
+
+require('Main.purs').main();
+
